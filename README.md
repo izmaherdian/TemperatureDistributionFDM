@@ -30,7 +30,7 @@ $$T_{m,n} = \frac{T_{m+1,n} + T_{m-1,n} + T_{m,n+1} + T_{m,n-1}}{4}$$
 
 ## 2. Domain and Boundary Conditions
 
-![Problem Geometry and Boundary Conditions](figures/problem_geometry.png)
+![Problem Geometry and Boundary Conditions](figures/problem_geometry_fix.png)
 
 The plate has dimensions of $1.0\text{ m} \times 1.0\text{ m}$ with a $0.25\text{ m} \times 0.25\text{ m}$ square adiabatic insulator centered at its middle (from $x, y = 0.375\text{ m}$ to $x, y = 0.625\text{ m}$).
 
