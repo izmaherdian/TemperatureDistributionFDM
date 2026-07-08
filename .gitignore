@@ -1,0 +1,21 @@
+# Ignore archive files
+*.zip
+
+# Ignore LaTeX auxiliary/build files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.blg
+*.bbl
+*.pdfsync
+*~
+
+# Temporary page extracts and texts
+/page-*.png
+/report_text.txt
+/perbandingan_grid_kontur.png
+/perbedaanflukskalor.png
